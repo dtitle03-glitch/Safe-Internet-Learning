@@ -1,0 +1,6 @@
+{
+  "name": "Safe Internet Learning",
+  "description": "เว็บแอปพลิเคชันเพื่อการเรียนรู้การใช้อินเทอร์เน็ตอย่างปลอดภัย มีความรับผิดชอบ และรู้เท่าทันภัยออนไลน์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
